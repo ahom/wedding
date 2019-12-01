@@ -4,11 +4,11 @@
 <article class="ui raised card dream-card">
 {{ end }}
   <div class="image">
-    {{ if isset .Params "cover" }}
-      <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
-    {{ else }}
-      <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
-    {{ end }}
+      {{ if isset .Params "cover" }}
+        <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
+      {{ else }}
+        <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
+      {{ end }}
   </div>
 
   <div class="content">
