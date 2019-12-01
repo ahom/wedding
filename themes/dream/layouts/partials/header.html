@@ -1,0 +1,14 @@
+<article class="dream-header">
+  <section class="ui top attached center aligned segment">
+    <div class="ui image">
+      {{ if isset .Site.Params "avatar" }}
+        <img src="{{ .Site.Params.avatar }}">
+      {{ end }}
+    </div>
+
+    <h3 class="ui header">
+      {{- .Site.Params.author -}}
+      <div class="sub header" style="margin-top: 0.5rem;">{{- .Site.Params.motto -}}</div>
+    </h3>
+  </section>
+</article>
