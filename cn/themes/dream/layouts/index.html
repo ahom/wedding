@@ -2,6 +2,9 @@
 <div class="ui centered relaxed grid dream-grid">
   <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
     {{ partial "header.html" . }}
+    <audio controls autoplay loop preload="auto">
+        <source src="/bgm.mp3" type="audio/mpeg">
+    </audio>
   </div>
 
   {{ range where .Site.RegularPages "Section" "!=" "about" }}
