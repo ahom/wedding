@@ -1,0 +1,26 @@
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+<div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column markdown-body dream-single">
+
+    <section class="ui top attached segment">
+      <div class="ui right ribbon black inverted label" onclick="savePostAsImg()">
+        <i class="save link icon"></i>
+      </div>
+      <header>
+        <h2 class="ui header">
+          {{ .Title }}
+        </h2>
+      </header>
+      <article style="margin-top: 2rem">{{ .Content | emojify }}</article>
+    </section>
+
+  </div>
+  <div class="sixteen wide mobile sixteen wide tablet four wide computer column">
+    {{ partial "header.html" . }}
+  </div>
+</div>
+{{ end }}

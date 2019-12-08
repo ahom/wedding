@@ -1,0 +1,39 @@
+baseURL = "https://www.17052020.com/fr"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+title = "Antoine & 张晓彤"
+theme = "dream"
+
+copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
+
+googleAnalytics = ""
+
+disqusShortname = ""
+
+enableRobotsTXT = true
+
+hasCJKLanguage = true
+
+CanonifyURLs = true
+
+[params]
+  # background = "black"
+  backgroundImage = "/fr/me/beijing.jpg"
+  linkColor = "seagreen"
+
+  author = "Mariage d'Antoine et de 张晓彤"
+  avatar = "/me/food-married.jpg"
+  motto = "17 Mai 2020, Pékin"
+  
+
+  siteStartYear = 2019
+
+  favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
+
+[markup.goldmark.renderer]
+unsafe = true
