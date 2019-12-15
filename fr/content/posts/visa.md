@@ -5,7 +5,7 @@ cover: /img/visa.jpg
 
 ## [Site officiel pour les demandes de visa chinois en france](https://www.visaforchina.org/)
 
-Il est nécessaire de se déplacer au centre de visa afin d'en faire la demande, voici les 4 possibilités:
+Il est nécessaire de se déplacer au centre de visa (au maximum 3 mois à l'avance) afin d'en faire la demande, voici les 4 possibilités:
 
 - [Marseille](http://bio.visaforchina.org/MRS2_FR/)
 - [Paris](http://bio.visaforchina.org/PAR2_FR/)
