@@ -1,21 +1,32 @@
 ---
-title: Emplacement
-cover: /img/venue.jpg
+title: Planification
+cover: /img/deauville.png
 ---
 
 <!--more-->
 
-<img class="ui large image" src="/img/venue.jpg" />
+<img class="ui large image" src="/img/deauville.png" />
 
-## Adresse
+## Cérémonie à la mairie de Deauville à 15h
 
-> 北京市海淀区永泰庄北路9号 潇湘曾府养生园宴会厅
+La cérémonie du mariage est prévue à **15h le samedi 29 Mai 2021** à la mairie de Deauville.
 
+- Adresse: 20 Rue Robert Fossorier, 14800 Deauville
+- [Google Maps](https://www.google.com/maps/place/Mairie+de+Deauville/@49.3596323,0.0738475,865m/data=!3m1!1e3!4m5!3m4!1s0x47e1d4b193a23abf:0x9e04ee625f03b7a1!8m2!3d49.3592478!4d0.0745522)
 
-- [Google Maps](https://www.google.com/maps/place/%E6%BD%87%E6%B9%98%E6%9B%BE%E5%BA%9C%E5%85%BB%E7%94%9F%E5%9B%AD/@40.039654,116.3630893,17z/data=!3m1!4b1!4m5!3m4!1s0x35f0559bb124a743:0x94711dd278877c6d!8m2!3d40.039654!4d116.365278)
-- [Baidu Maps](https://maps.baidu.com/poi/%E6%BD%87%E6%B9%98%E6%9B%BE%E5%BA%9C%E5%85%BB%E7%94%9F%E5%9B%AD(%E6%B0%B8%E6%B3%B0%E6%97%97%E8%88%B0%E5%BA%97)/@12954512.540205594,4844957.015000004,19z?uid=9f97b1c59965c91fb64f546e&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl)
-- [Chinese Trip Advisor](https://m.dianping.com/appshare/shop/22152532)
+## Soirée à la villa Le Phare à partir de 17h
 
-## Plan
+Un apéritif et un diner sont prévus à partir de 17h à la villa Le Phare.
 
-<img class="ui image" src="/img/plan.PNG" />
+- Adresse: Villa Le Phare, 1 Rue Mirabeau Prolongée, 14800 Deauville
+- [Google Maps](https://www.google.com/maps/place/Villa+Le+Phare/@49.3647111,0.0736144,728m/data=!3m1!1e3!4m8!3m7!1s0x47e1d4b2a4045185:0xb86c06163a55614a!5m2!4m1!1i2!8m2!3d49.3647111!4d0.0758031)
+
+## Plans
+
+### Villa
+
+<img class="ui image" src="/img/plan_villa.png" />
+
+### Mairie
+
+<img class="ui image" src="/img/plan_mairie.png" />

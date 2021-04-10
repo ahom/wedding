@@ -1,7 +1,7 @@
 baseURL = "https://17052020.com/fr"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Antoine & 张晓彤"
+title = "Antoine & Xiaotong (张晓彤)"
 theme = "dream"
 
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
@@ -21,12 +21,12 @@ CanonifyURLs = true
   backgroundImage = "/fr/me/beijing.jpg"
   linkColor = "seagreen"
 
-  author = "Mariage d'Antoine et de 张晓彤"
+  author = "Mariage d'Antoine et de Xiaotong (张晓彤)"
   avatar = "/me/food-married.jpg"
-  motto = "17 Mai 2020, Pékin"
+  motto = "29 Mai 2021, Deauville"
   
 
-  siteStartYear = 2019
+  siteStartYear = 2021
 
   favicon = "/favicon.ico"
 

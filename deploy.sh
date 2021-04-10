@@ -8,8 +8,8 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 cd fr
 hugo -d ../public/fr
 
-cd ../cn
-hugo -d ../public/cn
+#cd ../cn
+#hugo -d ../public/cn
 
 # Go To Public folder
 cd ../public
