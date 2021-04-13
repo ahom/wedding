@@ -18,7 +18,7 @@ CanonifyURLs = true
 
 [params]
   # background = "black"
-  backgroundImage = "/fr/me/beijing.jpg"
+  backgroundImage = "/me/beijing.jpg"
   linkColor = "seagreen"
 
   author = "Mariage d'Antoine et de Xiaotong (张晓彤)"
